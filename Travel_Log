@@ -20,7 +20,7 @@
 ##your programs, too.
 
 #Katie Chiu
-#Travel Log. Last update 10/18/18
+#Travel Log. Last update 10/20/18
 
 from tkinter import *
 from tkinter import ttk
